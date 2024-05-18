@@ -1,4 +1,6 @@
 # Sushi Themed Website
+Live Website : https://somusingh11.github.io/Sushi-Themed-Website/ 
+
 By following the tutorial : https://www.youtube.com/watch?v=QRrPE9aj3wI , I was able to use HTML and vanilla CSS to create a website with a sushi theme, which helped me gain experience with CSS Techniques and more.
 
 ![Sushi](https://github.com/SomuSingh11/Sushi-Themed-Website/assets/170082343/bb1a5dde-bb6c-4cb4-b888-4fa26a99028d)
@@ -34,4 +36,4 @@ By following the tutorial : https://www.youtube.com/watch?v=QRrPE9aj3wI , I was 
 
 Special thanks to JavaScript Mastery for providing the in-depth tutorial that guided this project. 
 
-Live Website : https://somusingh11.github.io/Sushi-Themed-Website/
+
